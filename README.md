@@ -12,7 +12,7 @@ Different Endpoints are:
 * Get Booking Details
 * Reserve Seat
 * Seat Availability
-
+---
 # Video Explanation of the working of the API 
 
 
@@ -20,7 +20,7 @@ Different Endpoints are:
 
 https://github.com/sukhleen-kaur-27/IRCTC-ticket-management-system/assets/74076814/d065869f-2f47-4c05-bd95-e11ae93e3f2f
 
-
+---
 # How to use the API and what details are needed :
 * Register API :
    * To be able to register we have share the username, email and password in the Body of the HTTPRequest.
@@ -68,9 +68,19 @@ https://github.com/sukhleen-kaur-27/IRCTC-ticket-management-system/assets/740768
 
    * Returns the details of the user and the train both.
 
- PS : If you have any questions you can ping me on sukhleenkaur2709@gmail.com
+---
+
+# How to use this project on your system?
+
+* Use the requirements.txt to install all the libraries and frameworks
+* Set up your virtual environment
+* Make sure you have Python installed in your system.
+* To test the APIs use thunder extension in VSCode (this is the one I'm using in the video)
+* Go to your terminal and activate your virtual envitronment.
+* Type : "pip install -r requirements.txt" to install all the dependencies and it should work like magic.
   
 
+ PS : If you have any questions you can ping me on sukhleenkaur2709@gmail.com
 
      
       
